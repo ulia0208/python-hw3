@@ -15,3 +15,4 @@ for i in range(a):
         n=n+my_list[i]
 
 print(n)
+
